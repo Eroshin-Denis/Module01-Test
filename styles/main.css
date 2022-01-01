@@ -1,0 +1,31 @@
+h1 {
+    background:#3A2F28 ;
+    color: white;
+
+}
+.effect1 {   cursor: pointer; border-radius: 10px; color: white; transition: .2s linear; background:#3A2F28 } .effect1:hover { box-shadow: 0 0 0 2px white, 0 0 0 4px #3A2F28; }
+.effect2 { cursor: pointer; border-radius: 10px; color: white; transition: .2s linear; background:#C1F1E4 } .effect2:hover { box-shadow: 200px 0 0 0 rgba(0,0,0,.3) inset; }
+.effect3 {  cursor: pointer; border-radius: 10px; color: white; transition: .2s linear; background:#D2973D; } .effect3:hover { box-shadow: 0 0 0 2px #D2973D inset, 0 0 0 4px white inset; }
+.effect4 {  cursor: pointer; border-radius: 10px; color: white; transition: .2s linear; background: #C76637; } .effect4:hover { box-shadow: 2px 2px white, 4px 4px #C76637; /*// top: -4px; смещение сильное*/ /* //left: -4px; смещение сильное*/ }
+p {
+    background:#3A2F28 ;
+    color: white;
+    box-shadow: inset 50px 0px 25px -30px #4b848d;/* Параметры тени */
+    border: 1px dashed #183533; /* Линия справа */
+}
+.re1 {
+    background:#d6f526 ;
+    color: rgb(248, 115, 7);
+    border: 3px dashed #183533; /* Линия справа */
+}
+.re2 {
+    background:#399bf7 ;
+    color: rgb(14, 1, 1);
+    border: 3px dashed #fa1707; /* Линия справа */
+}
+.re3 {
+    background:#c26af5 ;
+    color: red;
+    border: 3px dashed #183533; /* Линия справа */
+}
+
