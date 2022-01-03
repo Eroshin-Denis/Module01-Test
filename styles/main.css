@@ -1,7 +1,12 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background:#eedafa ;
+    border: 6px dashed #a1067b; /* Линия справа */
+}
 h1 {
     background:#3A2F28 ;
     color: white;
-
+    font-weight: 900;
 }
 .effect1 {   cursor: pointer; border-radius: 10px; color: white; transition: .2s linear; background:#3A2F28 } .effect1:hover { box-shadow: 0 0 0 2px white, 0 0 0 4px #3A2F28; }
 .effect2 { cursor: pointer; border-radius: 10px; color: rgb(211, 40, 40); transition: .2s linear; background:#C1F1E4 } .effect2:hover { box-shadow: 200px 0 0 0 rgba(0,0,0,.3) inset; }
@@ -27,8 +32,4 @@ p {
     background:#c26af5 ;
     color: red;
     border: 3px dashed #183533; /* Линия справа */
-}
-body {
-    background:#eedafa ;
-    border: 6px dashed #a1067b; /* Линия справа */
 }
