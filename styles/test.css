@@ -28,6 +28,7 @@
             letter-spacing: 0.5px;
         }
         body {
+            font-family: 'Roboto', sans-serif;
             line-height: 1.5;
         }
         ul {
